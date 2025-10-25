@@ -26,7 +26,7 @@ if __name__ == '__main__':
     if not 1 <= num_monitors_wide <= 8:
         print('Number of monitors wide must be between 1 and 8!')
         sys.exit(1)
-    
+
     if not 1 <= num_monitors_tall <= 6:
         print('Number of monitors tall must be between 1 and 6!')
         sys.exit(1)
