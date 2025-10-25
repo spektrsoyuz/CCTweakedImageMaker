@@ -4,7 +4,7 @@ This program allows you to take any image and create the code needed to display 
 ## Installation
 1. Clone the repository on your actual computer
 ```bash
-git clone https://github.com/ThatOneShortGuy/CCTweakedImageMaker.git
+git clone https://github.com/spektrsoyuz/CCTweakedImageMaker.git
 ```
 2. Install the required packages
 ```bash
